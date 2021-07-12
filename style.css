@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(skyblue, violet);
+    text-align: center;
+}
+
+hr {
+    width: 100px;
+    height: 6px;
+}
+
+img {
+    width: 200px;
+    height: 336px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: #6A1B9A;
+}
+
+.link {
+    position: sticky;
+    font-family: cursive;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    padding-left: 30px;
+    padding-right: 25px;
+    display: inline;
+    z-index: 10px;
+}
+
+.line {
+    width: 100px;
+    height: 6px;
+    background-color: black;
+    margin-left: 610px;
+    margin-bottom: 30px;
+}
